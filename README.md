@@ -20,9 +20,13 @@ This notebook compares the performance of **Random Forest**, **Linear Regression
 
 ## 📂 Dataset
 
+**Source: Data obtained from SMARD.de
+ — the official electricity market data platform provided by the German Federal Network Agency (Bundesnetzagentur).**
+
 **File used:** `ActualCons.csv`
 
 **Shape:** 1827 rows × 18 columns
+
 **Features include:**
 
 * Start and End Dates
