@@ -1,3 +1,9 @@
+Data Source & Attribution:
+Data used in this project is sourced from SMARD (Bundesnetzagentur) and is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Disclaimer:
+This analysis is for educational and demonstrative purposes only. While the data is publicly available, its accuracy or completeness is not guaranteed by SMARD or Bundesnetzagentur. Any insights, predictions, or visualizations are the result of independent analysis and should not be used for commercial or operational decision-making without proper verification.
+
 # Comparison-of-Regression-Models-for-Electricity-Consumption-Prediction
 This project forecasts electricity consumption using machine learning models trained on historical energy generation data. It employs Random Forest, Linear Regression, and K-Nearest Neighbors to predict daily grid load. The code includes data preprocessing, model training, evaluation, and visualization of result
 Here’s a polished **GitHub README.md** for your notebook, summarizing the workflow, methodology, and findings in a clear and professional format 👇
